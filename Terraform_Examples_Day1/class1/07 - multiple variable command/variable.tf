@@ -1,0 +1,7 @@
+variable "firstName" {
+  
+}
+
+variable "lastName" {
+    
+}
